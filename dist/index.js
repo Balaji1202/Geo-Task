@@ -34,28 +34,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(vue__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _src_App_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./src/App.vue */ "./src/App.vue");
-https: //cors-anywhere.herokuapp.com/
-fetch('https://balaji1202.github.io/GeoTask/income.json').then(function (res) {
-  return res.json();
-}).then(function (res) {
-  return console.log(res);
-});
-
-fetch('https://balaji1202.github.io/GeoTask/expenditure.json').then(function (res) {
-  return res.json();
-}).then(function (res) {
-  return console.log(res);
-});
-fetch('https://balaji1202.github.io/GeoTask/pincode.json').then(function (res) {
-  return res.json();
-}).then(function (res) {
-  return console.log(res);
-});
-fetch('https://balaji1202.github.io/GeoTask/locality.json').then(function (res) {
-  return res.json();
-}).then(function (res) {
-  return console.log(res);
-});
+// https: //cors-anywhere.herokuapp.com/
+//     fetch('https://balaji1202.github.io/GeoTask/income.json').then(res => res.json()).then(res => console.log(res));
+// fetch('https://balaji1202.github.io/GeoTask/expenditure.json').then(res => res.json()).then(res => console.log(res));
+// fetch('https://balaji1202.github.io/GeoTask/pincode.json').then(res => res.json()).then(res => console.log(res));
+// fetch('https://balaji1202.github.io/GeoTask/locality.json').then(res => res.json()).then(res => console.log(res));
 
 
 new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
