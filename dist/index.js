@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/images/moon.svg?8e222a72c4b91e43ac56ec935a2f14f4";
+module.exports = "./images/moon.svg?";
 
 /***/ }),
 
@@ -18,7 +18,7 @@ module.exports = "/images/moon.svg?8e222a72c4b91e43ac56ec935a2f14f4";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/images/sun.svg?ca6a580246b7b92f2f2ab2cd1835bc9b";
+module.exports = "./images/sun.svg";
 
 /***/ }),
 
